@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class METRO : MonoBehaviour
+public class CarManager : MonoBehaviour
 {
     public Transform carTransform;
     public Text distanceText;
